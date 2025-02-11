@@ -1,4 +1,4 @@
-24192796111875418
+24194535379625490
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91552,6 +91552,13 @@ Integrated Circuit
 0
 32
 32
+TE-01
+ABMM2
+ABMM2
+Crystal or Oscillator
+0
+4
+4
 TE-01
 QFN50P400X400X90-25N-D
 QFN24 EP 4x4 mm wettable flank mechanical data
