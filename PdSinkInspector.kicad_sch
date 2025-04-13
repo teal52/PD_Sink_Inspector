@@ -6215,7 +6215,7 @@
 		)
 	)
 	(junction
-		(at 186.69 68.58)
+		(at 179.07 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0214812a-0486-4216-b1f0-e43f8ba7d24d")
@@ -6317,7 +6317,7 @@
 		(uuid "2aeca771-03eb-4646-9c6b-6d3cb543c337")
 	)
 	(junction
-		(at 186.69 71.12)
+		(at 179.07 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d44dfb0-326e-48aa-bd1c-1ca28b7a6693")
@@ -6455,7 +6455,7 @@
 		(uuid "82bd160c-c925-4d8d-9950-df16d42d896f")
 	)
 	(junction
-		(at 186.69 66.04)
+		(at 179.07 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8899972d-eb74-48cf-8b4b-95128e8dd56e")
@@ -6471,6 +6471,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "971e1e08-89b8-4e1e-8020-5f9d473db934")
+	)
+	(junction
+		(at 237.49 2.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a37ac6d0-3757-488e-ac4d-c47b4eb7dd0f")
 	)
 	(junction
 		(at 234.95 73.66)
@@ -7422,7 +7428,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 68.58) (xy 199.39 68.58)
+			(xy 179.07 68.58) (xy 199.39 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7912,7 +7918,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 66.04) (xy 199.39 66.04)
+			(xy 179.07 66.04) (xy 199.39 66.04)
 		)
 		(stroke
 			(width 0)
@@ -8042,7 +8048,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 50.8) (xy 186.69 66.04)
+			(xy 179.07 50.8) (xy 179.07 66.04)
 		)
 		(stroke
 			(width 0)
@@ -8102,7 +8108,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 66.04) (xy 186.69 68.58)
+			(xy 179.07 66.04) (xy 179.07 68.58)
 		)
 		(stroke
 			(width 0)
@@ -8269,6 +8275,16 @@
 			(type default)
 		)
 		(uuid "79af6095-92a0-40f0-ad3f-98e04b65f0e7")
+	)
+	(wire
+		(pts
+			(xy 237.49 2.54) (xy 240.03 2.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c6420d-a08d-4a0a-9b5e-c015437577ec")
 	)
 	(wire
 		(pts
@@ -8672,7 +8688,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 50.8) (xy 186.69 50.8)
+			(xy 199.39 50.8) (xy 179.07 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8692,7 +8708,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 71.12) (xy 186.69 71.12)
+			(xy 199.39 71.12) (xy 179.07 71.12)
 		)
 		(stroke
 			(width 0)
@@ -8762,7 +8778,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 68.58) (xy 186.69 71.12)
+			(xy 179.07 68.58) (xy 179.07 71.12)
 		)
 		(stroke
 			(width 0)
@@ -8822,7 +8838,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 71.12) (xy 186.69 80.01)
+			(xy 179.07 71.12) (xy 179.07 80.01)
 		)
 		(stroke
 			(width 0)
@@ -10416,7 +10432,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27p"
+		(property "Value" "27pF"
 			(at 327.406 5.08 0)
 			(effects
 				(font
@@ -10521,6 +10537,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 542.29 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM" "C2988369"
 			(at 542.29 8.89 0)
 			(effects
 				(font
@@ -10948,7 +10973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 283.464 -63.5 0)
 			(effects
 				(font
@@ -11160,7 +11185,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 197.104 38.1 0)
 			(effects
 				(font
@@ -11592,7 +11617,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 393.446 -82.55 0)
 			(effects
 				(font
@@ -12067,7 +12092,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 423.926 -82.55 0)
 			(effects
 				(font
@@ -12146,7 +12171,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 266.954 -1.27 0)
 			(effects
 				(font
@@ -12366,7 +12391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 220.726 38.1 0)
 			(effects
 				(font
@@ -12481,6 +12506,15 @@
 				(hide yes)
 			)
 		)
+		(property "BOM" "C891320"
+			(at 209.55 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "126955db-3a32-4d8d-a89a-6698687c5b9e")
 		)
@@ -12572,7 +12606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 233.934 -50.8 0)
 			(effects
 				(font
@@ -12960,7 +12994,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 416.306 -82.55 0)
 			(effects
 				(font
@@ -13170,7 +13204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 401.066 -82.55 0)
 			(effects
 				(font
@@ -13656,7 +13690,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 439.166 -82.55 0)
 			(effects
 				(font
@@ -14615,7 +14649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27p"
+		(property "Value" "27pF"
 			(at 310.134 5.08 0)
 			(effects
 				(font
@@ -14836,7 +14870,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 356.616 -82.55 0)
 			(effects
 				(font
@@ -15322,7 +15356,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 242.824 -50.8 0)
 			(effects
 				(font
@@ -15484,7 +15518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.5u"
+		(property "Value" "1.5uH"
 			(at 202.184 -41.91 0)
 			(effects
 				(font
@@ -15744,7 +15778,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 186.69 80.01 0)
+		(at 179.07 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15753,7 +15787,7 @@
 		(fields_autoplaced yes)
 		(uuid "975e5fc0-e42b-4731-828a-f27d2e4e7f73")
 		(property "Reference" "#PWR051"
-			(at 186.69 86.36 0)
+			(at 179.07 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15762,7 +15796,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 186.69 85.09 0)
+			(at 179.07 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15770,7 +15804,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 80.01 0)
+			(at 179.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15779,7 +15813,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 80.01 0)
+			(at 179.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15788,7 +15822,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 186.69 80.01 0)
+			(at 179.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15826,7 +15860,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 364.236 -82.55 0)
 			(effects
 				(font
@@ -15971,7 +16005,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 194.564 -50.8 0)
 			(effects
 				(font
@@ -16355,6 +16389,15 @@
 				(hide yes)
 			)
 		)
+		(property "BOM" "C25077"
+			(at 229.87 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6ea87ba3-30d9-4111-8716-d3e81dd1b19f")
 		)
@@ -16663,7 +16706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 448.056 -82.55 0)
 			(effects
 				(font
@@ -17219,7 +17262,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 183.134 -50.8 0)
 			(effects
 				(font
@@ -17517,7 +17560,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 431.546 -82.55 0)
 			(effects
 				(font
@@ -17906,7 +17949,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 512.826 -34.29 0)
 			(effects
 				(font
@@ -18013,6 +18056,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
+			(at 243.84 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM" "C596811"
 			(at 243.84 63.5 0)
 			(effects
 				(font
@@ -18226,7 +18278,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 347.726 -82.55 0)
 			(effects
 				(font
@@ -18609,7 +18661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 408.686 -82.55 0)
 			(effects
 				(font
@@ -18848,7 +18900,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 522.986 -34.29 0)
 			(effects
 				(font
@@ -19498,6 +19550,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 96.52 -43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM" "C2988369"
 			(at 96.52 -43.18 0)
 			(effects
 				(font
