@@ -6740,6 +6740,15 @@
 		(at 443.23 -21.59)
 		(uuid "e5398fbd-f0cd-42b2-9421-815a9d92bb8a")
 	)
+	(bus_entry
+		(at 203.2 77.47)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45c3ca2a-79c9-4403-9a88-2b5b7267c7d3")
+	)
 	(wire
 		(pts
 			(xy 508 -41.91) (xy 508 -36.83)
